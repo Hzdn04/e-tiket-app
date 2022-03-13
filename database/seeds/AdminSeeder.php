@@ -4,10 +4,10 @@ use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Hash;
 
-class DatabaseSeeder extends Seeder
+class AdminSeeder extends Seeder
 {
     /**
-     * Seed the application's database.
+     * Run the database seeds.
      *
      * @return void
      */
@@ -15,10 +15,10 @@ class DatabaseSeeder extends Seeder
     {
         DB::table('users')->insert([
             'name' => 'hafiz',
-            'email' => 'picm4n.h@gmail.com',
+            'email' => 'picman.h@gmail.com',
             'password' => Hash::make('sannur2h'),
             'roles' => 'ADMIN',
-            'username' => 'hafiz'
+            'id' => '1'
         ]);
     }
 }
