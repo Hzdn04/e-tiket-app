@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501780055194",
+    "project_id": "airplane-a6833",
+    "storage_bucket": "airplane-a6833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501780055194:android:ab096bf847d5a3ea604b23",
+        "android_client_info": {
+          "package_name": "com.zoedin.booking_tiket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501780055194-ldb7p0pg84vcr6a6ogeqlh8haougpnri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYmXQC7CMTltJy6lp8wNy8tk2D3lSMZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501780055194-ldb7p0pg84vcr6a6ogeqlh8haougpnri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
